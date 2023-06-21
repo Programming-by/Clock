@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Clock\bin\Debug\Clock.exe.config
+C:\Users\User\Source\Repos\Clock\bin\Debug\Clock.exe
+C:\Users\User\Source\Repos\Clock\bin\Debug\Clock.pdb
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.exe
+C:\Users\User\Source\Repos\Clock\obj\Debug\Clock.pdb
